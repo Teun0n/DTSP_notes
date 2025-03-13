@@ -1,0 +1,5 @@
+numpy>=2.2.0
+matplotlib>=3.10.0
+scipy>=1.15.0
+control>=0.10.0
+sympy>=1.13.0
